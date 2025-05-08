@@ -5,7 +5,7 @@ Hi, I'm Dan Alfred S. Garcia, a 3rd-year Computer Science student. I'm passionat
 ## Projects
 Here are some of the projects I've worked on:
 
-[La Maja Building Billing and Visitor Management System](https://github.com/username/project1)
+[La Maja Building Billing and Visitor Management System](https://drive.google.com/drive/folders/1dh20FatWo-NG5cTLS-FlNbqXMhByBUkQ?usp=sharing)
 
 ![Image Description](https://github.com/alfrdrose/Garcia-Portfolio/blob/main/LaMaja.jpg)
 An application designed to manage rooms, tenants, bills, and visitors. The system helps streamline billing, track visitors, and keep everything organized.
