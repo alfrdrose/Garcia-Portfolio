@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio
 
-Hi, I'm [Your Name]! I'm a [your profession or focus area] with experience in [languages, frameworks, etc.].
+Hi, I'm Dan Alfred S. Garcia, a 3rd-year Computer Science student. I'm passionate about building applications and excited to apply my skills in real-world projects. I enjoy learning new technologies and solving problems through code.
 
 ## Projects
 Here are some of the projects I've worked on:
